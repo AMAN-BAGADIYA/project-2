@@ -1,0 +1,15 @@
+man is a good boy he lives in indore
+quirt
+quit
+:q
+:x<Return>
+:
+;
+:
+:
+:
+
+:q
+:q<Return>
+:q!<Return>
+
